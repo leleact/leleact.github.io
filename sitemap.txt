@@ -1,4 +1,5 @@
 https://leleact.github.io/posts/1edd64d8/
+https://leleact.github.io/posts/1d5ef26f/
 https://leleact.github.io/about/index.html
 https://leleact.github.io/categories/index.html
 https://leleact.github.io/tags/index.html
@@ -7,4 +8,5 @@ https://leleact.github.io/tags/cpp/
 https://leleact.github.io/tags/c/
 https://leleact.github.io/tags/%E7%BC%96%E7%A0%81/
 https://leleact.github.io/tags/%E6%8A%80%E6%9C%AF/
+https://leleact.github.io/tags/movie/
 https://leleact.github.io/categories/%E5%B7%A5%E7%A8%8B/
