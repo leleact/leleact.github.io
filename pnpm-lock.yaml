@@ -41,6 +41,9 @@ importers:
       hexo-server:
         specifier: ^3.0.0
         version: 3.0.0
+      hexo-site:
+        specifier: 'file:'
+        version: file:(chokidar@3.6.0)
       hexo-symbols-count-time:
         specifier: ^0.7.1
         version: 0.7.1
@@ -1151,6 +1154,9 @@ packages:
   hexo-server@3.0.0:
     resolution: {integrity: sha512-u4s0ty9Aew6jV+a9oMrXBwhrRpUQ0U8PWM/88a5aHgDru58VY81mVrxOFxs788NAsWQ8OvsJtF5m7mnXoRnSIA==}
     engines: {node: '>=12.13.0'}
+
+  'hexo-site@file:':
+    resolution: {directory: '', type: directory}
 
   hexo-symbols-count-time@0.7.1:
     resolution: {integrity: sha512-Zw19uxRIT/3VCvMQytG6HfBJc/IvfFJYui8cg6vyFAtDxkPOoZ1UlsPjrBRXYAqO6VjLc/vRi+Jthj38pKNPlw==}
@@ -3183,6 +3189,30 @@ snapshots:
       serve-static: 1.16.2
     transitivePeerDependencies:
       - supports-color
+
+  hexo-site@file:(chokidar@3.6.0):
+    dependencies:
+      hexo: 7.3.0(chokidar@3.6.0)
+      hexo-abbrlink: 2.2.1
+      hexo-generator-archive: 2.0.0
+      hexo-generator-category: 2.0.0
+      hexo-generator-index: 3.0.0
+      hexo-generator-sitemap: 3.0.1(chokidar@3.6.0)
+      hexo-generator-tag: 2.0.0
+      hexo-renderer-ejs: 2.0.0
+      hexo-renderer-marked: 6.3.0
+      hexo-renderer-stylus: 3.0.1
+      hexo-server: 3.0.0
+      hexo-symbols-count-time: 0.7.1
+      hexo-theme-icarus: 5.3.0(chokidar@3.6.0)
+      hexo-theme-landscape: 1.1.0
+      hexo-theme-next: 8.22.0
+    transitivePeerDependencies:
+      - bufferutil
+      - canvas
+      - chokidar
+      - supports-color
+      - utf-8-validate
 
   hexo-symbols-count-time@0.7.1:
     dependencies:
