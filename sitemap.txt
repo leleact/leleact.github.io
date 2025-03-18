@@ -1,8 +1,8 @@
+https://leleact.github.io/tags/index.html
 https://leleact.github.io/posts/1edd64d8/
 https://leleact.github.io/posts/1d5ef26f/
 https://leleact.github.io/about/index.html
 https://leleact.github.io/categories/index.html
-https://leleact.github.io/tags/index.html
 https://leleact.github.io/
 https://leleact.github.io/tags/cpp/
 https://leleact.github.io/tags/c/
