@@ -25,7 +25,7 @@
     "hexo-server": "^3.0.0",
     "hexo-site": "file:",
     "hexo-symbols-count-time": "^0.7.1",
-    "hexo-theme-icarus": "^5.3.0",
+    "hexo-theme-icarus": "^6.1.1",
     "hexo-theme-landscape": "^1.1.0",
     "hexo-theme-next": "^8.22.0"
   }
