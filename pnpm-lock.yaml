@@ -54,8 +54,8 @@ importers:
         specifier: ^1.1.0
         version: 1.1.0
       hexo-theme-next:
-        specifier: ^8.22.0
-        version: 8.22.0
+        specifier: ^8.23.0
+        version: 8.23.0
 
 packages:
 
@@ -1128,8 +1128,8 @@ packages:
   hexo-theme-landscape@1.1.0:
     resolution: {integrity: sha512-nszjixBEiEDZjf7glAGbHg0nKGHZdUDwzFVVdRDeu4FeHfGcY5CZNl9sF4vSligjnD8IwFXpDfx5E+GRmNKvWg==}
 
-  hexo-theme-next@8.22.0:
-    resolution: {integrity: sha512-5ygjwme0LUlwmeuyHAll8977PAGbepUzit9N4cxQEW2jDMiEMQDWZj8GaTJ1dMzJ67RXQCIIVOwxlQ8jywYIMg==}
+  hexo-theme-next@8.23.0:
+    resolution: {integrity: sha512-hHRuGRCTF1HyIjvucK3Ylxr2qYB2/bFXdD/IWyPtxcVvkLgn3jcwBq4Zw/ksd0qtKNnLnjrlwWSH9Dyy9Li5mA==}
 
   hexo-util@1.9.0:
     resolution: {integrity: sha512-WXv8IYd9HFtP6u/y7uoI//Fmg88uhKKDto9KeNNRdWf4HG/bRh/1NcSQZWu81DOZNshWD1rvFU8OKb7bUnX1WA==}
@@ -3102,7 +3102,7 @@ snapshots:
       hexo-symbols-count-time: 0.7.1
       hexo-theme-icarus: 6.1.1(chokidar@3.6.0)
       hexo-theme-landscape: 1.1.0
-      hexo-theme-next: 8.22.0
+      hexo-theme-next: 8.23.0
     transitivePeerDependencies:
       - bufferutil
       - canvas
@@ -3135,7 +3135,7 @@ snapshots:
 
   hexo-theme-landscape@1.1.0: {}
 
-  hexo-theme-next@8.22.0: {}
+  hexo-theme-next@8.23.0: {}
 
   hexo-util@1.9.0:
     dependencies:
