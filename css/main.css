@@ -547,6 +547,7 @@ kbd {
 figure.highlight {
   overflow: auto;
   position: relative;
+  color-scheme: light;
 }
 figure.highlight pre {
   border: 0;
@@ -1291,7 +1292,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #36eeff;
+    background: #6575ff;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
